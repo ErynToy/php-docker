@@ -1,0 +1,13 @@
+{
+    "require": {
+        "symfony/console": "^3.2",
+        "symfony/yaml": "^3.2",
+        "twig/twig": "~1.0",
+        "composer/semver": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Google\\Cloud\\Runtimes\\": "src"
+        }
+    }
+}
